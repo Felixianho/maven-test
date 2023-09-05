@@ -1,5 +1,5 @@
 # maven-project
-cfg
+cfgf
 Simple Maven Project
 <br
 
